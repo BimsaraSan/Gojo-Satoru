@@ -19,19 +19,19 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94710153972']
-global.premium = ['94710153972']
-global.ownernomer = '94710153972'
+global.owner = ['+94760487326']
+global.premium = ['+94760487326']
+global.ownernomer = '+94760487326'
 global.ownername = 'RC_CHAMI'
 global.botname = '🧑‍💻RC_BOT❤️'
 global.footer = 'Crazy_Chami'
-global.ig = 'https://github.com/nexusNw'
+global.ig = 'https://github.com/BimsaraSan'
 global.region = 'Srilanka, South, Galle'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
+global.sc = 'https://github.com/BimsaraSan'
 global.myweb = 'he he'
 global.packname = 'Rc_hatake❤️'
 global.author = 'Rc_hatake'
-global.sessionName = 'session'
+global.sessionName = 'Rc_hatake_session'
 global.prefa = ['','!','.','🍂','🍃','🌹']
 global.sp = '⭔'
 global.mess = {
